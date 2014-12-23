@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dadang.tebak_gambar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SatuActivity"
+            android:label="@string/title_activity_satu" >
+        </activity>
+        <activity
+            android:name=".DuaActivity"
+            android:label="@string/title_activity_dua" >
+        </activity>
+        <activity
+            android:name=".TigaActivity"
+            android:label="@string/title_activity_tiga" >
+        </activity>
+        <activity
+            android:name=".EmpatActivity"
+            android:label="@string/title_activity_empat" >
+        </activity>
+        <activity
+            android:name=".LimaActivity"
+            android:label="@string/title_activity_lima" >
+        </activity>
+        <activity
+            android:name=".EnamActivity"
+            android:label="@string/title_activity_enam" >
+        </activity>
+        <activity
+            android:name=".TujuhActivity"
+            android:label="@string/title_activity_tujuh" >
+        </activity>
+        <activity
+            android:name=".DelapanActivity"
+            android:label="@string/title_activity_delapan" >
+        </activity>
+        <activity
+            android:name=".SembilanActivity"
+            android:label="@string/title_activity_sembilan" >
+        </activity>
+        <activity
+            android:name=".SepuluhActivity"
+            android:label="@string/title_activity_sepuluh" >
+        </activity>
+        <activity
+            android:name=".FinishActivity"
+            android:label="@string/title_activity_finish" >
+        </activity>
+    </application>
+
+</manifest>

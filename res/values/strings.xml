@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tebak_Gambar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_satu">TEBAK GAMBAR</string>
+    <string name="title_activity_dua">TEBAK GAMBAR</string>
+    <string name="title_activity_tiga">TEBAK GAMBAR</string>
+    <string name="title_activity_empat">TEBAK GAMBAR</string>
+    <string name="title_activity_lima">TEBAK GAMBAR</string>
+    <string name="title_activity_enam">TEBAK GAMBAR</string>
+    <string name="title_activity_tujuh">TEBAK GAMBAR</string>
+    <string name="title_activity_delapan">TEBAK GAMBAR</string>
+    <string name="title_activity_sembilan">TEBAK GAMBAR</string>
+    <string name="title_activity_sepuluh">TEBAK GAMBAR</string>
+    <string name="title_activity_finish">TEBAK GAMBAR</string>
+
+</resources>
